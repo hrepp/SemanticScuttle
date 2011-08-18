@@ -334,7 +334,7 @@ msgstr " und %2$s%1$s anderer Person%3$s"
 
 #: data/templates/bookmarks.tpl.php:345
 msgid "Copy this bookmark to YOUR bookmarks."
-msgstr "Dieses Lesezeichen in DEINE Lesezeichen kopieren."
+msgstr "Dieses Lesezeichen in MEINE Lesezeichen kopieren."
 
 #: data/templates/bookmarks.tpl.php:346
 msgid "Copy"
@@ -426,7 +426,7 @@ msgstr "Privatnotiz"
 
 #: data/templates/editbookmark.tpl.php:78
 msgid "Just visible by you and your contacts."
-msgstr "Nur für dich und deine Kontakte sichtbar."
+msgstr "Nur für mich und meine Kontakte sichtbar."
 
 #: data/templates/editbookmark.tpl.php:82
 #: data/templates/toolbar.inc.php:10
@@ -531,7 +531,7 @@ msgstr "Es sind keine Zertifikate registriert."
 
 #: data/templates/editprofile-sslclientcerts.tpl.php:48
 msgid "Your current certificate is already registered with your account."
-msgstr "Dein aktuelles Zertifikat ist bereits registriert."
+msgstr "Mein aktuelles Zertifikat ist bereits registriert."
 
 #: data/templates/editprofile-sslclientcerts.tpl.php:53
 msgid "Register current certificate to automatically login."
@@ -539,7 +539,7 @@ msgstr "Aktuelles Zertifikat zum automatischen Einloggen registrieren."
 
 #: data/templates/editprofile-sslclientcerts.tpl.php:59
 msgid "Your browser does not provide a certificate."
-msgstr "Dein Browser stellt kein Zertifikat zu Verfügung."
+msgstr "Mein Browser stellt kein Zertifikat zu Verfügung."
 
 #: data/templates/editprofile.tpl.php:8
 msgid "Account Details"
