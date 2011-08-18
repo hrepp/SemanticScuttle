@@ -49,8 +49,8 @@ $cleanurls = false;
  *
  * @var boolean
  */
-$debugMode = true;
-
+//$debugMode = true;
+$debugMode = false;
 
 /***************************************************
  * Database configuration
