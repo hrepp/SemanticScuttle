@@ -17,7 +17,9 @@
  */
 if ('@data_dir@' == '@' . 'data_dir@') {
     //non pear-install
-    require_once dirname(__FILE__) . '/../src/SemanticScuttle/header.php';
+    //require_once dirname(__FILE__) . '/../src/SemanticScuttle/header.php';
+    require_once 'src/SemanticScuttle/header.php';
+
 } else {
     //pear installation; files are in include path
     require_once 'SemanticScuttle/header.php';
