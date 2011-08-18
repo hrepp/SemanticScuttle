@@ -3,6 +3,9 @@ dist/
 build.properties
 package.xml
 semanticscuttle-dump.sql
-data/config.php
-data/config.testing.php
-data/config.testing-tmp.php
+
+*~
+*#*#
+*.#*
+semanticscuttle.session
+semanticscuttle.webprj
